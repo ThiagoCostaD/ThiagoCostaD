@@ -9,7 +9,7 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 
 ## Projetos Destacados
 - [Site Valéria - Testemunhos Pessoais](https://github.com/ThiagoCostaD/SiteValeria) - Um projeto Django para compartilhar testemunhos pessoais.
-- [Site Paulo](https://github.com/ThiagoCostaD/SitePaulo) - Outro projeto Django, com foco em [descrever brevemente o propósito do projeto].
+- [Site Paulo](https://github.com/ThiagoCostaD/SitePaulo) - Projeto de treinamento Django para aprimorar habilidades no framework.
 - [Curso de Django com Django Rest Framework](https://github.com/ThiagoCostaD/CursoDeDjango) - Um curso utilizando Django e Django Rest Framework.
 - [Aulas de Python Básico](https://github.com/ThiagoCostaD/Aulas_Python) - Repositório para aulas de Python básico.
 
@@ -24,4 +24,3 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 - 📷 Instagram: [thiagocostadiniz](https://www.instagram.com/thiagocostadiniz/)
 - 💼 LinkedIn: [thiagocostadiniz](https://www.linkedin.com/in/thiagocostadiniz/)
 - 🐦 Twitter: [@CostaThiagoD](https://twitter.com/CostaThiagoD)
-- ...
