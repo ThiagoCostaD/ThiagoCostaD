@@ -71,6 +71,8 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 
   <a href="https://github.com/ThiagoCostaD">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCostaD&layout=compact&langs_count=7&theme=dracula"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCostaD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  ![Snake animation](https://github.com/ThiagoCostaD/ThiagoCostaD/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## Como Entrar em Contato:
