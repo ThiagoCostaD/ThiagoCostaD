@@ -16,22 +16,22 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 
 ## Habilidades
 - **Linguagens de Programação:** 
-  - Python <i class="fab fa-python"></i>
-  - HTML <i class="fab fa-html5"></i>
-  - CSS <i class="fab fa-css3"></i>
+  - Python <i class="fab fa-python"></i> 🐍
+  - HTML <i class="fab fa-html5"></i> 🌐
+  - CSS <i class="fab fa-css3"></i> 🎨
   
 - **Frameworks:** 
   - Django <i class="fab fa-django"></i>
   - Django Rest Framework <i class="fab fa-python"></i>
   
 - **Banco de Dados:** 
-  - SQLite <i class="fas fa-database"></i>
-  - MySQL <i class="fas fa-database"></i>
-  - PostgreSQL <i class="fas fa-database"></i>
+  - SQLite <i class="fas fa-database"></i> 🗃️
+  - MySQL <i class="fas fa-database"></i> 🗃️
+  - PostgreSQL <i class="fas fa-database"></i> 🗃️
+  
 - **Outras Tecnologias:**
-- 
   - Git <i class="fab fa-git"></i>
-  - GitHub Octocat <i class="fab fa-github"></i>
+  - GitHub  <i class="fab fa-github"></i>
 
 
 ## Como Entrar em Contato
