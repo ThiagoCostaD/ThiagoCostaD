@@ -8,10 +8,11 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 - 🌱 Estou sempre em busca de aprender algo novo e melhorar minhas habilidades.
 
 ## Projetos Destacados
-- [Site Valéria - Testemunhos Pessoais](https://github.com/ThiagoCostaD/SiteValeria) - Um projeto Django para compartilhar testemunhos pessoais.
-- [Site Paulo](https://github.com/ThiagoCostaD/SitePaulo) - Projeto de treinamento Django para aprimorar habilidades no framework.
-- [Curso de Django com Django Rest Framework](https://github.com/ThiagoCostaD/CursoDeDjango) - Um curso utilizando Django e Django Rest Framework.
-- [Aulas de Python Básico](https://github.com/ThiagoCostaD/Aulas_Python) - Repositório para aulas de Python básico.
+- [Site Valéria - Testemunhos Pessoais](https://github.com/ThiagoCostaD/SiteValeria) - Um projeto Django para compartilhar testemunhos pessoais. (70% concluído) ![70%](https://progress-bar.dev/70)
+- [Site Paulo](https://github.com/ThiagoCostaD/SitePaulo) - Projeto de treinamento Django para aprimorar habilidades no framework. (50% concluído) ![50%](https://progress-bar.dev/50)
+- [Curso de Django com Django Rest Framework](https://github.com/ThiagoCostaD/CursoDeDjango) - Um curso utilizando Django e Django Rest Framework. (90% concluído) ![90%](https://progress-bar.dev/90)
+- [Aulas de Python Básico](https://github.com/ThiagoCostaD/Aulas_Python) - Repositório para aulas de Python básico. (100% concluído) ![100%](https://progress-bar.dev/100)
+
 
 ## Habilidades
 - **Linguagens de Programação:** Python, HTML, CSS.
