@@ -3,7 +3,8 @@
 Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da programação Python e Django.
 
 ## Sobre Mim
-- 📚 Atualmente, estou focado nos estudos de Análise e Desenvolvimento de Sistemas.
+- 📚 Atualmente, estou imerso em uma jornada de aprendizado que abrange Análise e Desenvolvimento de Sistemas, explorando diversas áreas e tecnologias.
+
 - 💻 Sou um desenvolvedor Python e tenho grande interesse no framework Django.
 - 🌱 Estou sempre em busca de aprender algo novo e melhorar minhas habilidades.
 
