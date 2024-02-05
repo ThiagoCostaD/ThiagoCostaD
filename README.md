@@ -20,22 +20,31 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 
 ## Habilidades
 - **Linguagens de Programação:**
-  - Python <i class="fab fa-python"></i>
-  - HTML <i class="fab fa-html5"></i>
-  - CSS <i class="fab fa-css3"></i>
+  - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" />
+
+  - HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/>
+
+  - CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/>
+
 
 - **Frameworks:**
-  - Django <i class="fab fa-python"></i>
-  - Django Rest Framework <i class="fab fa-python"></i>
+  - Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
+
+  - Django Rest Framework <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20" />
 
 - **Banco de Dados:**
-  - SQLite <i class="fas fa-database"></i>
-  - MySQL <i class="fas fa-database"></i>
-  - PostgreSQL <i class="fas fa-database"></i>
+  - SQLite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="20" />
+
+  - MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/>
+
+  - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" />
+
 
 - **Outras Tecnologias:**
-  - Git <i class="fab fa-git"></i>
-  - GitHub  <i class="fab fa-github"></i>
+  - Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" />
+
+  - GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" />
+
 
 
 ## Como Entrar em Contato
