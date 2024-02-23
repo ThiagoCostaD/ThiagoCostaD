@@ -18,7 +18,7 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 <div>
 
   ## Projetos Destacados:
-  - [Site Valéria - Testemunhos Pessoais](https://github.com/ThiagoCostaD/SiteValeria) - Um projeto Django para compartilhar testemunhos pessoais. ( v1 75% concluído) ![75%](https://progress-bar.dev/45)
+  - [Site Valéria - Testemunhos Pessoais](https://github.com/ThiagoCostaD/SiteValeria) - Um projeto Django para compartilhar testemunhos pessoais. ( v1 75% concluído) ![75%](https://progress-bar.dev/75)
 
   - [Site Paulo](https://github.com/ThiagoCostaD/SitePaulo) - Projeto de treinamento Django para aprimorar habilidades no framework. (30% concluído) ![30%](https://progress-bar.dev/30)
 
