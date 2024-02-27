@@ -2,14 +2,13 @@ Hello, I'm Thiago Costa! 👋
 
 I am a student of Analysis and Systems Development and a Python and Django programming enthusiast.
 <div>
-About Me:
-
+    About Me:
     📚 Currently, I'm immersed in a learning journey that covers Analysis and Systems Development, exploring various areas and technologies.
-
+    
     💻 I'm a Python developer and I have a great interest in the Django framework.
-
+    
     🌱 I'm always looking to learn something new and improve my skills.
-
+    
     💻 I use Windows and Ubuntu as operating systems in my daily life.
 
 </div>
