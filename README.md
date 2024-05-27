@@ -22,7 +22,7 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 
   - [Site Paulo](https://github.com/ThiagoCostaD/SitePaulo) - Projeto de treinamento Django para aprimorar habilidades no framework. (30% concluído) ![30%](https://progress-bar.dev/30)
 
-  - [Curso de Django com Django Rest Framework](https://github.com/ThiagoCostaD/CursoDeDjango) - Um curso utilizando Django e Django Rest Framework. (50% concluído) ![50%](https://progress-bar.dev/50)
+  - [Curso de Django com Django Rest Framework](https://github.com/ThiagoCostaD/CursoDeDjango) - Um curso utilizando Django e Django Rest Framework. (60% concluído) ![60%](https://progress-bar.dev/60)
 
   - [Aulas de Python Básico](https://github.com/ThiagoCostaD/Aulas_Python) - Repositório para aulas de Python básico. (10% concluído) ![10%](https://progress-bar.dev/10)
 </div>
