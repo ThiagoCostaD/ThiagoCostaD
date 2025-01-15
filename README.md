@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+<title>Perfil de Thiago Costa</title>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Thiago Costa</title>
-</head>
 
-<body>
+
 
     <h1>Olá, Eu Sou Thiago Costa! 👋</h1>
     <p>Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da programação Python, Django, Node.js, Flutter e Dart.</p>
@@ -86,6 +80,4 @@
         </ul>
     </div>
 
-</body>
 
-</html>
