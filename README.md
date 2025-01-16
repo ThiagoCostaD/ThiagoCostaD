@@ -17,7 +17,7 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 - [Aulas de Python Básico](https://github.com/ThiagoCostaD/Aulas_Python) - Repositório para aulas de Python básico. (10% concluído) ![10%](https://progress-bar.dev/10)
 
 ## Habilidades:
-### Linguagens de Programação:
+
 ### Linguagens de Programação:
 - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/>  
 - JavaScript (Node.js) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/>  
