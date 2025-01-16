@@ -1,13 +1,12 @@
 # Olá, Eu Sou Thiago Costa! 👋
 
-Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da programação Python, Django, Node.js, Flutter e Dart.
+### Sou desenvolvedor de software com forte interesse em Python, Django, Node.js, Flutter e Dart. Com experiência na criação de soluções escaláveis e eficientes, estou sempre em busca de expandir meus conhecimentos e aplicar novas tecnologias nos projetos em que me envolvo.
 
 ## Sobre Mim:
-
-- 📚 Atualmente, estou imerso em uma jornada de aprendizado que abrange Análise e Desenvolvimento de Sistemas, explorando diversas áreas e tecnologias.
-- 💻 Sou um desenvolvedor Python e tenho grande interesse no framework Django, além de estar aprendendo Node.js, Flutter e Dart.
-- 🌱 Estou sempre em busca de aprender algo novo e melhorar minhas habilidades.
-- 💻 Utilizo Windows e Ubuntu como sistemas operacionais no meu dia a dia.
+📚 Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, explorando diversas áreas como desenvolvimento backend, frameworks, e integração de tecnologias.
+💻 Especializado em Python e Django, tenho trabalhado em diversos projetos backend e também estou expandindo minha experiência com Node.js, Flutter e Dart, criando soluções modernas e eficientes.
+🌱 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e de resolução de problemas, com foco em desenvolvimento ágil e boas práticas de código.
+💻 Utilizo Windows e Ubuntu como sistemas operacionais no meu dia a dia, mantendo uma abordagem flexível para adaptar-me a diferentes ambientes de desenvolvimento.
 
 ## Projetos Destacados:
 
