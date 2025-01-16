@@ -3,10 +3,10 @@
 ### Sou desenvolvedor de software com forte interesse em Python, Django, Node.js, Flutter e Dart. Com experiência na criação de soluções escaláveis e eficientes, estou sempre em busca de expandir meus conhecimentos e aplicar novas tecnologias nos projetos em que me envolvo.
 
 ## Sobre Mim:
-📚 Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, explorando diversas áreas como desenvolvimento backend, frameworks, e integração de tecnologias.
-💻 Especializado em Python e Django, tenho trabalhado em diversos projetos backend e também estou expandindo minha experiência com Node.js, Flutter e Dart, criando soluções modernas e eficientes.
-🌱 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e de resolução de problemas, com foco em desenvolvimento ágil e boas práticas de código.
-💻 Utilizo Windows e Ubuntu como sistemas operacionais no meu dia a dia, mantendo uma abordagem flexível para adaptar-me a diferentes ambientes de desenvolvimento.
+- 📚 Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, explorando diversas áreas como desenvolvimento backend, frameworks, e integração de tecnologias.
+- 💻 Especializado em Python e Django, tenho trabalhado em diversos projetos backend e também estou expandindo minha experiência com Node.js, Flutter e Dart, criando soluções modernas e eficientes.
+- 🌱 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas e de resolução de problemas, com foco em desenvolvimento ágil e boas práticas de código.
+- 💻 Utilizo Windows e Ubuntu como sistemas operacionais no meu dia a dia, mantendo uma abordagem flexível para adaptar-me a diferentes ambientes de desenvolvimento.
 
 ## Projetos Destacados:
 
