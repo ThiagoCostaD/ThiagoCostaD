@@ -17,26 +17,26 @@ Eu sou um estudante de Análise e Desenvolvimento de Sistemas e um entusiasta da
 - [Aulas de Python Básico](https://github.com/ThiagoCostaD/Aulas_Python) - Repositório para aulas de Python básico. (10% concluído) ![10%](https://progress-bar.dev/10)
 
 ## Habilidades:
-
 ### Linguagens de Programação:
-- Python ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-- JavaScript (Node.js) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
-- Dart ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)  
+- Python ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) width="20"  
+- JavaScript (Node.js) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) width="20"  
+- Dart ![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg) width="20"  
 
 ### Frameworks:
-- Django ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)  
-- Django Rest Framework ![Django Rest Framework](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)  
-- Node.js ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
-- Flutter ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)  
+- Django ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) width="20"  
+- Django Rest Framework ![Django Rest Framework](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) width="20"  
+- Node.js ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) width="20"  
+- Flutter ![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg) width="20"  
 
 ### Banco de Dados:
-- SQLite ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)  
-- MySQL ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
-- PostgreSQL ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+- SQLite ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) width="20"  
+- MySQL ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) width="20"  
+- PostgreSQL ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) width="20"  
 
 ### Outras Tecnologias:
-- Git ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
-- GitHub ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
+- Git ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) width="20"  
+- GitHub ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) width="20"  
+
 
 ## Estatísticas:
 
