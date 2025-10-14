@@ -4,7 +4,7 @@
 
 Desenvolvedor de Software com **5 anos de experiência** especializado em **Backend** e **FullStack**. Atuo na criação de APIs escaláveis, automação de processos e otimização de infraestrutura com foco em arquitetura de microsserviços e boas práticas de desenvolvimento.
 
-- 🔭 Atualmente trabalhando na **Weber Technologies** e **EPTV (Filial Globo)**
+- 🔭 Atualmente trabalhando na **Weber Technologies** (Backend) e **EPTV (Filial Globo)** (FullStack)
 - 🚀 Especialista em Python (Django, FastAPI), Node.js e arquitetura de microsserviços
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Focado em Cloud (AWS, GCP), DevOps e práticas de TDD
@@ -78,46 +78,44 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoCostaD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCostaD&layout=compact&langs_count=8&theme=dracula)
-
-![Snake animation](https://github.com/ThiagoCostaD/ThiagoCostaD/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Projetos em Destaque
 
 ### [Site Valéria - Testemunhos Pessoais](https://github.com/ThiagoCostaD/SiteValeria)
 
 Plataforma Django para compartilhamento de testemunhos pessoais com sistema de autenticação e gestão de conteúdo.
-![75%](https://progress-bar.dev/75)
+![Progress 75%](https://progress-bar.dev/75/)
 
 ### [Curso de Django com DRF](https://github.com/ThiagoCostaD/CursoDeDjango)
 
 Projeto educacional completo utilizando Django e Django Rest Framework com exemplos práticos de APIs RESTful.
-![60%](https://progress-bar.dev/60)
+![Progress 60%](https://progress-bar.dev/60/)
 
 ### [Perícias e Consultorias - Site Paulo](https://github.com/ThiagoCostaD/SitePaulo)
 
-Website profissional desenvolvido em Django para empresa de perícias e consultorias. [Ver site ao vivo](https://periciaseconsultorias.com.br/)
-![100%](https://progress-bar.dev/100)
+Website profissional desenvolvido em Django para empresa de perícias e consultorias.
+[Ver site ao vivo](https://periciaseconsultorias.com.br/)
+![Progress 100%](https://progress-bar.dev/100/)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoCostaD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/ThiagoCostaD)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCostaD&layout=compact&langs_count=8&theme=dracula)](https://github.com/ThiagoCostaD)
+
+![Snake animation](https://github.com/ThiagoCostaD/ThiagoCostaD/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocostadiniz/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagoocdiniz@gmail.com)
-
-
 **📍 Localização:** Varginha, Minas Gerais - Brasil
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocostadiniz/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagoocdiniz@gmail.com)
 
 ---
 
 > ### ⚡ "Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software ao aprender uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que direcionam disciplinas."  
 
 > — Robert C. Martin
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagocostadiniz) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagocostaD) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoocdiniz@gmail.com)
