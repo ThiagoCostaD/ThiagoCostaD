@@ -80,17 +80,7 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 
 ## 🎯 Projetos em Destaque
 
-### [Site Valéria - Testemunhos Pessoais](https://github.com/ThiagoCostaD/SiteValeria)
-
-Plataforma Django para compartilhamento de testemunhos pessoais com sistema de autenticação e gestão de conteúdo.
-![Progress 75%](https://progress-bar.dev/75/)
-
-### [Curso de Django com DRF](https://github.com/ThiagoCostaD/CursoDeDjango)
-
-Projeto educacional completo utilizando Django e Django Rest Framework com exemplos práticos de APIs RESTful.
-![Progress 60%](https://progress-bar.dev/60/)
-
-### [Perícias e Consultorias - Site Paulo](https://github.com/ThiagoCostaD/SitePaulo)
+### Perícias e Consultorias
 
 Website profissional desenvolvido em Django para empresa de perícias e consultorias.
 [Ver site ao vivo](https://periciaseconsultorias.com.br/)
