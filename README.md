@@ -50,7 +50,7 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 ## 💼 Experiência Profissional
 
 ### 📺 EPTV (Filial Globo) | Desenvolvedor FullStack  
-**Jul 2024 - Presente** | Remoto  
+**Jul 2024 - Presente** | Presencial  
 
 - Desenvolvimento e manutenção de APIs RESTful com Python (Django), Node.js e PHP, utilizando PostgreSQL como banco principal  
 - Aplicação de Test-Driven Development (TDD) com testes unitários, de integração e de carga, aumentando confiabilidade e reduzindo falhas em produção  
@@ -61,7 +61,7 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 
 ---
 
-### 🤖 :contentReference[oaicite:0]{index=0} | Software Engineer (GenAI) – Freelance  
+### 🤖 Scale AI | Software Engineer (GenAI) – Freelance  
 **Dez 2024 - Set 2025** | Remoto  
 
 - Execução de microtarefas complexas de código e linguagem natural para aprimoramento de Large Language Models (LLMs)  
