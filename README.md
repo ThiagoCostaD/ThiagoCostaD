@@ -25,8 +25,6 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 ### Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Database
 
@@ -46,37 +44,41 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🏢 Weber Technologies | Desenvolvedor Backend
+### 📺 EPTV (Filial Globo) | Desenvolvedor FullStack  
+**Jul 2024 - Presente** | Remoto  
 
-**Jan 2023 - Presente** | Remoto
-
-- Desenvolvimento de APIs e microsserviços com Python, Django e Node.js
-- Implementação de TDD com testes unitários, de integração e de carga
-- Arquitetura de microsserviços para aplicações escaláveis
-
-### 📺 EPTV (Filial Globo) | Desenvolvedor FullStack
-
-**Jul 2024 - Presente** | Remoto
-
-- Desenvolvimento de APIs RESTful com Python, Node.js, PHP e React.js
-- Automação de CI/CD com Docker e GitHub Actions
-- Monitoramento de performance e otimização de sistemas de alta disponibilidade
-
-### 🚀 Qoda | Desenvolvedor Backend
-
-**Jan 2020 - Dez 2021** | Remoto
-
-- Criação de APIs escaláveis com Django e PostgreSQL
-- Análise de dados com PySpark e Databricks
-- Automação de processos e integração de sistemas
+- Desenvolvimento e manutenção de APIs RESTful com Python (Django), Node.js e PHP, utilizando PostgreSQL como banco principal  
+- Aplicação de Test-Driven Development (TDD) com testes unitários, de integração e de carga, aumentando confiabilidade e reduzindo falhas em produção  
+- Implementação de novas funcionalidades e refatorações estratégicas focadas em desempenho, escalabilidade e manutenibilidade  
+- Atuação em arquitetura de microsserviços, promovendo modularidade e deploys independentes  
+- Colaboração com equipe de frontend em React.js para integração fluida entre backend e interface  
+- Monitoramento de performance, análise de logs e otimizações para garantir alta disponibilidade e estabilidade dos sistemas  
 
 ---
+
+### 🤖 :contentReference[oaicite:0]{index=0} | Software Engineer (GenAI) – Freelance  
+**Dez 2024 - Set 2025** | Remoto  
+
+- Execução de microtarefas complexas de código e linguagem natural para aprimoramento de Large Language Models (LLMs)  
+- Avaliação técnica e linguística de respostas geradas por IA com base em rubricas de qualidade  
+- Identificação de inconsistências e oportunidades de melhoria no raciocínio e alinhamento dos modelos  
+- Contribuição para projetos de IA em larga escala, assegurando clareza, precisão e aderência a padrões técnicos  
+
+---
+
+### 🏢 Weber Technologies | Desenvolvedor Backend  
+**Jan 2023 - Out 2024** | Remoto  
+
+- Desenvolvimento de APIs e serviços web escaláveis com Python, Django, Node.js e PostgreSQL  
+- Aplicação de TDD e criação de testes automatizados (unitários, integração e carga)  
+- Implementação de novas funcionalidades e melhorias contínuas em sistemas existentes  
+- Arquitetura baseada em microsserviços para modularização e escalabilidade  
+- Colaboração com equipes de frontend para integração eficiente entre sistemas  
 
 ## 🎯 Projetos em Destaque
 
