@@ -122,4 +122,4 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 
 ---
 
-![snake animation](https://github.com/ThiagoCostaD/ThiagoCostaD/blob/output/dist/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/ThiagoCostaD/ThiagoCostaD/blob/output/github-contribution-grid-snake.svg)
