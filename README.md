@@ -119,3 +119,7 @@ Desenvolvedor de Software com **5 anos de experiência** especializado em **Back
 > ### ⚡ "Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software ao aprender uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que direcionam disciplinas."
 
 > — Robert C. Martin
+
+---
+
+![snake animation](https://github.com/ThiagoCostaD/ThiagoCostaD/blob/output/dist/github-contribution-grid-snake.svg)
