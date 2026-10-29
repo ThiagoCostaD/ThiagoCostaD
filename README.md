@@ -1,159 +1,100 @@
-# Olá! Eu sou Thiago Costa 👋
+# Hi, I'm Thiago Costa 👋
 
-## 👨‍💻 Sobre Mim
+### Software Engineer | Full Stack & DevOps | SaaS Founder
 
-**Software Engineer / DevOps** com experiência em desenvolvimento Backend, Full Stack e infraestrutura.
+I'm a software engineer based in **Varginha, Brazil**, focused on building reliable web applications, APIs, cloud infrastructure, and SaaS products.
 
-Atuo no desenvolvimento de aplicações e APIs escaláveis, arquitetura de microsserviços, automação de deploys e sustentação de ambientes Cloud.
+My work spans backend and full-stack development, software architecture, infrastructure automation, and deployment. I enjoy turning business requirements into secure, maintainable products.
 
-* 🐍 **Python:** Django, Django REST Framework, FastAPI e Flask
-* ⚡ **Backend:** Python, Node.js e APIs RESTful
-* ☁️ **Cloud:** AWS e Google Cloud Platform
-* 🐳 **DevOps:** Docker, CI/CD, GitHub Actions, Linux e Terraform
-* 🗄️ **Databases:** PostgreSQL, MySQL e Redis
-* 🧪 **Engineering:** TDD, testes unitários, integração e carga
-* 🤖 Experiência com **Generative AI, LLM Evaluation e Human Feedback**
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🔭 Building software products and digital solutions through **Compasso Wave**.
+- 🧩 Working with **Python, TypeScript, React, Next.js, and Flutter**.
+- ☁️ Interested in **cloud architecture, DevOps, CI/CD, and scalable systems**.
+- 🤖 Experience with **Generative AI, LLM evaluation, and human feedback**.
+- 🌎 Open to collaborating with international teams.
+- 🎓 Studying **Systems Analysis and Development** at Unicesumar (expected 2027).
 
----
+## Tech Stack
 
-## 🏅 Certificações
+| Area | Technologies |
+| --- | --- |
+| **Backend** | Python, Django, Django REST Framework, FastAPI, Flask, Node.js, PHP |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, HTML, CSS |
+| **Mobile** | Flutter, Dart |
+| **Databases & Cache** | PostgreSQL, MySQL, Redis, Supabase |
+| **Cloud & DevOps** | AWS, Google Cloud, Docker, Terraform, GitHub Actions, Vercel, Linux |
+| **Engineering** | REST APIs, automated testing, TDD, CI/CD, system integration, observability |
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)](https://www.credly.com/badges/2c6e08be-b866-4530-b9ed-bc0543bf683b/public_url)
+## Certifications
 
-[![AWS re/Start Graduate](https://img.shields.io/badge/AWS-re%2FStart_Graduate-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)](https://www.credly.com/badges/2bf2640a-a9f5-495e-ac98-f09b6f790524)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/2c6e08be-b866-4530-b9ed-bc0543bf683b/public_url)
 
----
+[![AWS re/Start Graduate](https://img.shields.io/badge/AWS-re%2FStart_Graduate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://www.credly.com/badges/2bf2640a-a9f5-495e-ac98-f09b6f790524)
 
-## 🛠️ Tech Stack
+## Professional Experience
 
-### Backend
+### Infinity Loop Company — Software Engineer / DevOps
+**Jul 2022 – Present**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+Career progression: Junior Software Developer → Mid-Level Software Developer → Software Engineer / DevOps.
 
-### Frontend
+- Developed REST APIs and backend services using Python, Django, FastAPI, and Node.js.
+- Worked with microservices, PostgreSQL, Redis, and automated testing.
+- Built containerized environments and CI/CD pipelines.
+- Supported AWS infrastructure, Linux environments, and production troubleshooting.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+### EPTV — Full Stack Developer / Level 1 Support Analyst
+**Jul 2024 – Aug 2026**
 
-### Databases
+- Developed backend services with Python, Node.js, and PHP, and frontend interfaces with React.
+- Worked with PostgreSQL, MySQL, application monitoring, and incident investigation.
+- Supported Linux and Windows environments, networking, and connectivity.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+### Scale AI — Software Engineer, Generative AI
+**Dec 2024 – Sep 2025**
 
-### DevOps & Cloud
+- Evaluated LLM outputs for technical accuracy, code quality, reasoning, and requirement adherence.
+- Created and validated training data and provided structured human feedback.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+### Weber Technologies — Backend Developer
+**Jan 2023 – Oct 2024**
 
----
+- Built REST APIs using Python, Django, FastAPI, and Node.js.
+- Worked with microservices, PostgreSQL, Redis, TDD, and automated tests.
+- Integrated backend services with React and Angular applications.
 
-## 💼 Experiência
+## Selected Projects
 
-### ♾️ Infinity Loop Company
+### Compasso Wave
+Software development initiative focused on digital products, web applications, integrations, and SaaS solutions.
 
-**Software Engineer / DevOps | Jul 2022 — Presente**
+**Focus:** Software engineering · Web platforms · SaaS · Automation
 
-`Junior Software Developer → Mid-Level Software Developer → Software Engineer / DevOps`
+### NR Corporate
+Corporate technology platform with web and mobile experiences, focused on business workflows and digital operations.
 
-* Desenvolvimento de APIs RESTful com **Python, Django, FastAPI e Node.js**
-* Arquiteturas baseadas em **microsserviços**
-* PostgreSQL e Redis
-* TDD e testes automatizados
-* Containerização com **Docker**
-* Pipelines de **CI/CD**
-* Provisionamento e sustentação de ambientes **AWS**
-* Administração Linux, troubleshooting e análise de logs
+**Focus:** React · TypeScript · Flutter · Supabase
 
----
+### PC Perícias & Consultorias
+Institutional website focused on responsive design, accessibility, search visibility, and performance.
 
-### 📺 EPTV
+**Focus:** Web development · SEO · Accessibility · Performance
 
-**Full Stack Developer | Level 1 Support Analyst | Jul 2024 — Ago 2026**
+### Next Horizon Cloud
+Academic AWS architecture project for the fictional EscolaTech platform, developed during the AWS re/Start program.
 
-* Desenvolvimento de APIs e serviços com Python, Node.js e PHP
-* Frontend com React
-* PostgreSQL e MySQL
-* Monitoramento de aplicações e serviços
-* Troubleshooting e análise de logs
-* Administração de ambientes Linux e Windows
-* Infraestrutura de redes e conectividade
-* Suporte técnico e diagnóstico de incidentes
+**Focus:** AWS · Auto Scaling · Aurora PostgreSQL · Cloud Architecture
 
----
+## Education
 
-### 🤖 Scale AI
+**Associate Degree in Systems Analysis and Development**  
+Unicesumar · 2023–2027 (expected)
 
-**Software Engineer — Generative AI | Dez 2024 — Set 2025**
+## Connect With Me
 
-* Avaliação e aprimoramento de **Large Language Models (LLMs)**
-* Avaliação técnica de respostas geradas por IA
-* Análise de código, raciocínio e aderência a requisitos
-* Criação e validação de dados de treinamento
-* Human Feedback para melhoria de modelos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocostadiniz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoocdiniz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoCostaD)
 
 ---
 
-### 🏢 Weber Technologies
-
-**Backend Developer | Jan 2023 — Out 2024**
-
-* APIs RESTful com Python, Django, FastAPI e Node.js
-* Arquitetura de microsserviços
-* PostgreSQL e Redis
-* TDD e testes automatizados
-* Integração com aplicações React e Angular
-
----
-
-## 🚀 Projetos
-
-### 🔎 PC Perícias e Consultorias
-
-Website institucional desenvolvido utilizando **React, JavaScript, HTML e CSS**, com foco em responsividade, SEO e performance.
-
-[🌐 Ver projeto](https://periciaseconsultorias.com.br/)
-
-**Status:** `██████████` 100% ✅
-
----
-
-### ☁️ Next Horizon Cloud
-
-Arquitetura AWS desenvolvida para a plataforma fictícia **EscolaTech** como projeto acadêmico do programa AWS re/Start.
-
-Arquitetura envolvendo:
-
-`AWS` • `Auto Scaling` • `Aurora PostgreSQL` • `Fastify` • `Cloud Architecture`
-
-**Status:** `██████████` 100% ✅
-
----
-
-## 🎓 Formação
-
-**Análise e Desenvolvimento de Sistemas**
-Unicesumar — 2023 / 2027
-
----
-
-## 📫 Contato
-
-📍 Varginha, Minas Gerais — Brasil
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/thiagocostadiniz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:thiagoocdiniz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ThiagoCostaD)
+*Building useful software with a focus on quality, security, and long-term maintainability.*
